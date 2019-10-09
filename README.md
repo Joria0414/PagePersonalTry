@@ -1,4 +1,4 @@
-# ReactPersonalTry
+# For the part of react
 Here is the repository for myself to learn react.
 
 React is a JavaScript library created by Facebook and is used for building user interfaces (UIs) and front-end application.
